@@ -50,7 +50,7 @@
 
 ![Fix](scr/11.png)
 
-Выполнил слияние веток **master** и **branch1** а затем удалил ветку **branch1** командой _it
+Выполнил слияние веток **master** и **branch1** а затем удалил ветку **branch1** командой _git branch -d branch1_
 
 ![Merge](scr/13.png)
 
